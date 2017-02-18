@@ -1,0 +1,10 @@
+{
+    "author": "Penelope Python",
+    "email": "penelope.python@mail.com",
+    "package_name": "flask_api",
+    "project_name": "My Flask API",
+    "project_description": "A Flask-based API",
+    "project_repository": "git@github.com:afreeorange/repo.git",
+    "version": "0.0.1",
+    "documentation_markup": ["reStructuredText", "Markdown"]
+}
