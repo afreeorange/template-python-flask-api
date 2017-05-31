@@ -4,6 +4,8 @@ Cookiecutter Template for a Flask-based Web Service
 Usage
 -----
 
+The URI simply redirects to [this](https://raw.githubusercontent.com/afreeorange/python-project-bootstrapper/master/Makefile)
+
     wget http://public.nikhil.io/Makefile
     make
 
@@ -24,4 +26,3 @@ License
 -------
 
 Do whatever you want.
-
